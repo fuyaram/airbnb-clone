@@ -1,3 +1,11 @@
+show case desktop view 
+
+
+![airbnb1](https://github.com/fuyaram/airbnb-clone/assets/143484868/b3f168c6-9a32-4121-9061-d8fbd6d067a0)
+
+
+![airbnb2](https://github.com/fuyaram/airbnb-clone/assets/143484868/0f9771c8-2cb8-4c5d-8e78-08ede643ac4c)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
